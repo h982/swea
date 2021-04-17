@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 import java.io.StringReader;
 import java.util.StringTokenizer;
 
-public class 햄버거다이어5215 {
+public class 햄버거다이어트5215 {
     static BufferedReader input = new BufferedReader(new InputStreamReader(System.in));
     static StringBuilder output = new StringBuilder();
 

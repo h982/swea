@@ -31,7 +31,7 @@ public class 규영이와인영이의카드게임6806 {
             System.out.println("#" + test_case + " " + "A: " + win_A +  ", B :" + win_B);
         }
     }
-    static int TOTAL_GAMES = 362880;
+    static int TOTAL_GAMES = 9*8*7*6*5*4*3*2*1;
     static int checkWin(boolean[] isSelected, int cnt, int A, int B){
         if(A >= 77){
             int sum = 1;

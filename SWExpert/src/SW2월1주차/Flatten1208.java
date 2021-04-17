@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class Flatten {
+public class Flatten1208 {
     // 인풋 아웃풋 정의
     static BufferedReader input = new BufferedReader(new InputStreamReader(System.in));
     static StringBuilder output = new StringBuilder();

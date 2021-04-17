@@ -1,7 +1,7 @@
 package SW2월1주차;
 import java.util.Scanner;
 
-public class 주혁이의복권당첨 {
+public class 주혁이의복권당첨6900 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int T = sc.nextInt();
