@@ -20,6 +20,10 @@
 ### DP
 - [대규의 팬덤활동 - 7393](../../tree/main/SWExpert/src/SW4월3주차/대규의팬덤활동7393.java) <a href="https://harry-choi.tistory.com/36"> (풀이) </a>
 
+### 정수론
+- [조합 - 5607](../../tree/main/SWExpert/src/SW4월3주차/조합5607.java) <a href="https://harry-choi.tistory.com/41"> (풀이) </a>
+- [방향 전환 - 8382](../../tree/main/SWExpert/src/SW4월3주차/방향전환8382.java) <a href="https://harry-choi.tistory.com/42"> (풀이) </a>
+- [구간합 - 5604](../../tree/main/SWExpert/src/SW4월3주차/구간합5604.java) 
 
 
 ### 구현
